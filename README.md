@@ -1,1 +1,1 @@
-# GTP-Master
+# GTP-Master Ivan Ichenko 
